@@ -1,6 +1,6 @@
 ﻿DAUMPLAYLIST
-playname=UN
-topindex=0
+playname=rtmp://txrtmp.cdn.zhanqi.tv/zqlive/41832_NfsIa
+topindex=1
 1*file*http://ws4.streamhls.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1.m3u8
 1*title*铁齿铜牙纪晓岚
 1*played*0
