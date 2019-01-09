@@ -17,4 +17,5 @@
 还珠格格,http://ws4.streamhls.huya.com/backsrc/30765679-2523417093-10837993888602390528-2789274530-10057-A-0-1.m3u8
 十万个冷笑话,http://ws4.streamhls.huya.com/backsrc/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1.m3u8
 X战警,http://ws4.streamhls.huya.com/backsrc/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8
+#大屏播放器暂时不支持rtmp格式
 火影忍者,rtmp://txrtmp.cdn.zhanqi.tv/zqlive/41832_NfsIa
