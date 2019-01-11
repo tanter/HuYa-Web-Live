@@ -1,4 +1,10 @@
 #虎牙直播源
+江苏卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225847/index.m3u8
+东方卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
+湖南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225759/3.m3u8
+深圳卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225760/3.m3u8
+山东卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225763/3.m3u8
+湖北卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225764/3.m3u8
 铁齿铜牙纪晓岚,http://ws4.streamhls.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1.m3u8
 周星驰,http://ws4.streamhls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 成龙,http://ws4.streamhls.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
@@ -17,5 +23,4 @@
 还珠格格,http://ws4.streamhls.huya.com/backsrc/30765679-2523417093-10837993888602390528-2789274530-10057-A-0-1.m3u8
 十万个冷笑话,http://ws4.streamhls.huya.com/backsrc/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1.m3u8
 X战警,http://ws4.streamhls.huya.com/backsrc/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8
-#大屏播放器暂时不支持rtmp格式
-#火影忍者,rtmp://txrtmp.cdn.zhanqi.tv/zqlive/41832_NfsIa
+NewTv古装,http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
