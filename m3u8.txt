@@ -15,8 +15,8 @@ CCTV12,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8#htt
 CCTV13,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8#http://221.6.85.150:9000/live/cctv13_800/cctv13_800.m3u8
 CCTV14,http://221.6.85.150:9000/live/cctv14_800/cctv14_800.m3u8
 CCTV15,http://221.6.85.150:9000/live/cctv15_800/cctv15_800.m3u8
-江苏卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225847/index.m3u8
-东方卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
+江苏卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225847/index.m3u8#http://221.6.85.150:9000/live/jsws_800/jsws_800.m3u8
+东方卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8#http://221.6.85.150:9000/live/dfws_800/dfws_800.m3u8
 浙江卫视，http://221.6.85.150:9000/live/zjws_800/zjws_800.m3u8
 湖南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225759/3.m3u8#http://221.6.85.150:9000/live/hnws_800/hnws_800.m3u8
 深圳卫视,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225760/3.m3u8
