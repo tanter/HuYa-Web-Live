@@ -1,10 +1,11 @@
 #虎牙直播源
-CCTV1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
+CCTV1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8#http://221.6.85.150:9000/live/cctv1_800/cctv1_800.m3u8
 CCTV2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
 CCTV3,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
 CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
 CCTV5,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8
 CCTV5+,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
+CCTV6,http://221.6.85.150:9000/live/cctv6_800/cctv6_800.m3u8
 CCTV7,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
 CCTV8,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/index.m3u8
 CCTV9,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
