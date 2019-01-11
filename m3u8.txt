@@ -1,4 +1,3 @@
-#虎牙直播源
 CCTV1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8#http://221.6.85.150:9000/live/cctv1_800/cctv1_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-15
 CCTV2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8#http://221.6.85.150:9000/live/cctv2_800/cctv2_800.m3u8
 CCTV3,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8#http://221.6.85.150:9000/live/cctv3_800/cctv3_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-17
