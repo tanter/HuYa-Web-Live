@@ -63,6 +63,9 @@ CCTV15,http://221.6.85.150:9000/live/cctv15_800/cctv15_800.m3u8
 还珠格格,http://ws4.streamhls.huya.com/backsrc/30765679-2523417093-10837993888602390528-2789274530-10057-A-0-1.m3u8
 十万个冷笑话,http://ws4.streamhls.huya.com/backsrc/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1.m3u8
 X战警,http://ws4.streamhls.huya.com/backsrc/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8
+唐人街探案,http://hlslive.video.iqiyi.com/tslive/c17_lb_xijudianying_720p_t10/c17_lb_xijudianying_720p_t10.m3u8?pv=0.2&qd_src=ih5&qd_tm=1547358129284&qd_ip=117.136.0.184&qd_sc=8248503bf28c63f8c431b3595c8e88e1
+喜剧片,http://loopplay.cibn.cc/vchannel/169.m3u8?k=69e06ef8bf40f428e80e5e41fa0f44df&channel=CIBN&t=1547357779&ttl=86400&type=3&videotype=loop
+龙虾刑警,http://loopplay.cibn.cc/vchannel/335.m3u8?k=69e06ef8bf40f428e80e5e41fa0f44df&channel=CIBN&t=1547357779&ttl=86400&type=3&videotype=loop
 NewTv古装,http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
 Newtv动画王国,http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
 Newtv古装剧场,http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
