@@ -43,6 +43,8 @@ CCTV15,http://221.6.85.150:9000/live/cctv15_800/cctv15_800.m3u8
 环球电视台, http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
 华视新闻, http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
 港台RTHK31, http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8?sd=10&rebase=on
+凤凰卫视资讯台,http://117.169.120.209:8080/live/fhzixun/.m3u8
+咪咕-动漫-卡酷动漫,rtmp://ivi.bupt.edu.cn/livetv/btv10
 电影,http://pullhls2.ingkee.com/live/1535033875110929/playlist.m3u8
 有线603,http://pullhls2.ingkee.com/live/1555033203210929/playlist.m3u8
 铁齿铜牙纪晓岚,http://ws4.streamhls.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1.m3u8
