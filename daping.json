@@ -450,6 +450,78 @@
             "num": "0021",
             "urllist": "http://loopplay.cibn.cc/vchannel/335.m3u8?k=69e06ef8bf40f428e80e5e41fa0f44df&channel=CIBN&t=1547357779&ttl=86400&type=3&videotype=loop"
         },
+		{
+            "itemid": "uid03",
+            "name": "周星驰",
+            "num": "0001",
+            "urllist": "https://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "国外电影",
+            "num": "0002",
+            "urllist": "https://ws.streamhls.huya.com/huyalive/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1_1200/playlist.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "宫崎骏",
+            "num": "0003",
+            "urllist": "https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "漫威",
+            "num": "0004",
+            "urllist": "https://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "迪士尼",
+            "num": "0005",
+            "urllist": "https://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "女神",
+            "num": "0006",
+            "urllist": "https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "漫威2",
+            "num": "0007",
+            "urllist": "https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "漫威动画",
+            "num": "0008",
+            "urllist": "https://aldirect.hls.huya.com/huyalive/29169025-2686220910-11537230958281359360-2847687608-10057-A-1524018691-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "成龙历险记",
+            "num": "0009",
+            "urllist": "https://aldirect.hls.huya.com/huyalive/29169025-2686220626-11537229738510647296-2847699128-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "马桶电影",
+            "num": "0010",
+            "urllist": "https://ws.streamhls.huya.com/huyalive/1199512349981-1199512349981-5224717751536320512-2399024823418-10057-A-0-1_1200/playlist.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "科幻片",
+            "num": "0011",
+            "urllist": "https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "周润发",
+            "num": "0012",
+            "urllist": "https://dno-501-1001-ilp.youku.com/v1-100100011/8009782-1544578-651147-863397_yk720.m3u8?auth_key=1576895951-0-0-142ace770c0441970904d1c608067a7c&title=%E5%91%A8%E6%B6%A6%E5%8F%91%E7%99%BE%E7%9C%8B%E4%B8%8D%E5%8E%8C%E7%BB%8F%E5%85%B8%E7%B3%BB%E5%88%97%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=agp0E3ImyQ4CAXphoXVxPM6N&cdnQuality=720p"
+        },
 		        {
             "itemid": "uid04",
             "name": "NewTv古装",
@@ -575,7 +647,13 @@
             "name": "测试rtmp",
             "num": "0021",
             "urllist": "rtmp://dv2.tp33.net:1935/sat/tv091"
-		}	
+		},
+	    {
+            "itemid": "uid05",
+            "name": "周杰伦演唱会",
+            "num": "0001",
+            "urllist": "http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_zhoujielun_720p_t10/c19_lb_zhoujielun_720p_t10.m3u8?key=0de55db3ee8471bcc349c4f94c4066d6&dis_k=aa4517fe6063d688b5dc2f2852d563e2&dis_t=1547485721&dis_dz=CT-SiChuan_ChengDu&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1547485368907&qd_ip=223.104.3.168&qd_sc=e0f36a90f7c45c91a806354953d0a030"
+        }
     ],
     "type": [
         {
@@ -597,6 +675,10 @@
 		{
             "id": "uid04",
             "name": "NewTV"
+        },
+		{
+            "id": "uid05",
+            "name": "演唱会"
         }
 	]	
 }
