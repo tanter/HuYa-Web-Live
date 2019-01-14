@@ -28,6 +28,8 @@ CCTV15,http://221.6.85.150:9000/live/cctv15_800/cctv15_800.m3u8
 广东卫视,http://94.191.92.145:5005/nl.ts?id=232-10-1-67
 河北卫视,http://94.191.92.145:5005/nl.ts?id=232-10-1-59
 四川卫视,http://94.191.92.145:5005/nl.ts?id=232-10-1-5
+江西卫视,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv01.m3u8
+天津卫视,http://183.230.80.11:80/ysten-business/live/hdtianjinstv/1.m3u8
 重庆卫视,http://94.191.92.145:5005/nl.ts?id=232-10-1-38
 河南卫视,http://zhibo.uotocom.com:8080/app/henan.m3u8
 广西卫视,http://94.191.92.145:5005/nl.ts?id=232-10-1-50
