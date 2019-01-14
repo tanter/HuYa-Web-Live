@@ -103,4 +103,17 @@
             "name": "央视"
         }
     ]
+"live": [
+        {
+            "itemid": "uid01",
+            "name": "辽宁卫视",
+            "num": "0001",
+            "urllist": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225818/3.m3u8"
+        },	
+	"type": [
+			{
+			"id": "uid01",
+            "name": "卫视"
+        }
+    ]		
 }
