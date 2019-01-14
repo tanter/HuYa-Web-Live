@@ -104,3 +104,182 @@
         }
     ]
 }
+
+{
+    "live": [
+        {
+            "itemid": "uid00",
+            "name": "河南卫视",
+            "num": "0001",
+            "urllist": "http://zhibo.uotocom.com:8080/app/henan.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "浙江卫视",
+            "num": "0002",
+            "urllist": "http://zhibo.uotocom.com:8080/app/zhejiang.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "江苏卫视",
+            "num": "0003",
+            "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225847/index.m3u8#http://221.6.85.150:9000/live/jsws_800/jsws_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-35"
+        },
+        {
+            "itemid": "uid00",
+            "name": "东方卫视",
+            "num": "0004",
+            "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8#http://221.6.85.150:9000/live/dfws_800/dfws_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-37"
+        },
+        {
+            "itemid": "uid00",
+            "name": "浙江卫视",
+            "num": "0005",
+            "urllist": "http://221.6.85.150:9000/live/zjws_800/zjws_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-33"
+        },
+        {
+            "itemid": "uid00",
+            "name": "湖南卫视",
+            "num": "0006",
+            "urllist": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225759/3.m3u8#http://221.6.85.150:9000/live/hnws_800/hnws_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-52"
+        },
+        {
+            "itemid": "uid00",
+            "name": "深圳卫视",
+            "num": "0007",
+            "urllist": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225760/3.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-55"
+        },
+        {
+            "itemid": "uid00",
+            "name": "山东卫视",
+            "num": "0008",
+            "urllist": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225763/3.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-36"
+        },
+        {
+            "itemid": "uid00",
+            "name": "湖北卫视",
+            "num": "0009",
+            "urllist": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225764/3.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-47"
+        },
+        {
+            "itemid": "uid00",
+            "name": "安徽卫视",
+            "num": "0010",
+            "urllist": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225784/3.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-39"
+        },
+        {
+            "itemid": "uid00",
+            "name": "东南卫视",
+            "num": "0011",
+            "urllist": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225785/3.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-60"
+        },
+        {
+            "itemid": "uid00",
+            "name": "江西卫视",
+            "num": "0012",
+            "urllist": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225787/3.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-49"
+        },
+        {
+            "itemid": "uid00",
+            "name": "辽宁卫视",
+            "num": "0013",
+            "urllist": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225818/3.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "广东卫视",
+            "num": "0014",
+            "urllist": "http://94.191.92.145:5005/nl.ts?id=232-10-1-67"
+        },
+        {
+            "itemid": "uid00",
+            "name": "河北卫视",
+            "num": "0015",
+            "urllist": "http://94.191.92.145:5005/nl.ts?id=232-10-1-59"
+        },
+        {
+            "itemid": "uid00",
+            "name": "四川卫视",
+            "num": "0016",
+            "urllist": "http://94.191.92.145:5005/nl.ts?id=232-10-1-5"
+        },
+        {
+            "itemid": "uid00",
+            "name": "江西卫视",
+            "num": "0017",
+            "urllist": "http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv01.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "天津卫视",
+            "num": "0018",
+            "urllist": "http://183.230.80.11:80/ysten-business/live/hdtianjinstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "重庆卫视",
+            "num": "0019",
+            "urllist": "http://94.191.92.145:5005/nl.ts?id=232-10-1-38"
+        },
+        {
+            "itemid": "uid00",
+            "name": "河南卫视",
+            "num": "0020",
+            "urllist": "http://zhibo.uotocom.com:8080/app/henan.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "广西卫视",
+            "num": "0021",
+            "urllist": "http://94.191.92.145:5005/nl.ts?id=232-10-1-50"
+        },
+        {
+            "itemid": "uid00",
+            "name": "吉林卫视",
+            "num": "0022",
+            "urllist": "http://94.191.92.145:5005/nl.ts?id=232-10-1-43"
+        },
+        {
+            "itemid": "uid00",
+            "name": "辽宁卫视",
+            "num": "0023",
+            "urllist": "http://94.191.92.145:5005/nl.ts?id=232-10-1-42"
+        },
+        {
+            "itemid": "uid00",
+            "name": "河北卫视",
+            "num": "0024",
+            "urllist": "http://weblive.hebtv.com/live/hbws_bq/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "广东卫视",
+            "num": "0025",
+            "urllist": "http://stream1.grtn.cn/gdws/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "凤凰卫视",
+            "num": "0026",
+            "urllist": "rtmp://ivi.bupt.edu.cn/livetv/fhzw"
+        },
+        {
+            "itemid": "uid00",
+            "name": "四川影视文娱",
+            "num": "0027",
+            "urllist": "http://m3u8.sctv.com/tvlive/SCTV5/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "四川文化旅游",
+            "num": "0028",
+            "urllist": "http://m3u8.sctv.com/tvlive/SCTV2/index.m3u8"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid01",
+            "name": "卫视"
+        }
+    ]
+}
