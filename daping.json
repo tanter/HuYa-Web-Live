@@ -95,18 +95,7 @@
             "name": "CCTV15",
             "num": "0016",
             "urllist": "http://zhibo.uotocom.com:8080/app/cctv15.m3u8#http://221.6.85.150:9000/live/cctv15_800/cctv15_800.m3u8"
-        }
-    ],
-    "type": [
-        {
-            "id": "uid00",
-            "name": "央视"
-        }
-    ]
-}
-
-{
-    "live": [
+        },
         {
             "itemid": "uid01",
             "name": "河南卫视",
@@ -280,6 +269,11 @@
         {
             "id": "uid01",
             "name": "卫视"
+        },
+        {
+            "id": "uid00",
+            "name": "央视"
         }
+    ]
     ]
 }
