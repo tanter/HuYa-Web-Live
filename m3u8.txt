@@ -101,3 +101,12 @@ CCTV9,http://asp.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4e1621d9412e4e71
 快乐大本营20180922,http://221.229.163.75/c1/2018/09/23_0/E4FD6F4F4E4733DCE1FF0BAE247499AD_20180923_1_1_1549_mp4/68604BC8E1B4DE855FA0810D9AC9C8EA.m3u8?arange=0&pm=JYuw1KDTSawq2VBgAmxpAjpnY21CLD82PCwf9530fUjM9k3he2q5V4h9rAKneKWysaEJeWVT1fggCOUfhfgfb7G9fwJVrtvLuPu~hGRVuX0lD2s_FDnkVFTfQMpkVa9HRdwWZNTEMeG4_goMf5ZWxlVMPpJPplZhJ92l173GniebKFeNTIzzv617FcxhhZoKhCie3cEmcNf4h6rNv4Z9JQnq1M78Y62Cq59SmanaevWqJu07Ggk1FMB9ARoBQHyW7CXAQLKNBgQKyhd6DqlIP1IIIfxB1u0ewZ4wSnWFDaV7E3CH4IhjDAW9USf77BcUJEO5lW3lU27pQUjBqTTfxOhe1nmwZDJWEU9W4fCZ~B25eTBbdmFUhRlo1MZMotymwv2ikcFSlhwARo~a&vcdn=0&scid=177&way=1515
 火影忍者2,http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa_1024/index.m3u8
 凤凰卫视,http://g.alicdn.com/de/prismplayer-flash/1.2.16/PrismPlayer.swf?vurl=http://117.169.120.209:8080/live/fhzixun/.m3u8&autoPlay=true
+
+
+
+电视剧
+炊事班的故事,http://171.217.255.40/baiducdnct.inter.iqiyi.com/tslive/c17_lb_aiqinggongyu_720p_t10/c17_lb_aiqinggongyu_720p_t10.m3u8?key=0de55db3ee8471bccac600fc86ce38e&dis_k=c5fd63df8df6264e42cf0d9a6947fe59&dis_t=1547485217&dis_dz=CT-SiChuan_ChengDu&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1547484087630&qd_ip=223.104.3.168&qd_sc=b9222fef508c6246b92dec144e4a9a10&wshc_tag=0&wsiphost=ipdbm
+
+
+演唱会
+周杰伦演唱会,http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_zhoujielun_720p_t10/c19_lb_zhoujielun_720p_t10.m3u8?key=0de55db3ee8471bcc349c4f94c4066d6&dis_k=aa4517fe6063d688b5dc2f2852d563e2&dis_t=1547485721&dis_dz=CT-SiChuan_ChengDu&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1547485368907&qd_ip=223.104.3.168&qd_sc=e0f36a90f7c45c91a806354953d0a030
