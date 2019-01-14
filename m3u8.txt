@@ -42,16 +42,16 @@ CCTV15,http://zhibo.uotocom.com:8080/app/cctv15.m3u8#http://221.6.85.150:9000/li
 凤凰卫视,rtmp://ivi.bupt.edu.cn/livetv/fhzw
 四川影视文娱,http://m3u8.sctv.com/tvlive/SCTV5/index.m3u8
 四川文化旅游,http://m3u8.sctv.com/tvlive/SCTV2/index.m3u8
-凤凰资讯台, http://14.29.60.40/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
-凤凰中文HD, http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8
-凤凰资讯台, http://14.29.60.40/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
-凤凰中文, http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8
-凤凰资讯台, http://14.29.60.40/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
-凤凰中文HD, http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8
-华视咨讯台, http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
-环球电视台, http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
-华视新闻, http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
-港台RTHK31, http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8?sd=10&rebase=on
+凤凰资讯台,http://14.29.60.40/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
+凤凰中文HD,http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8
+凤凰资讯台,http://14.29.60.40/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
+凤凰中文,http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8
+凤凰资讯台,http://14.29.60.40/live/5/30/08f9ed0afa5a40eab9f325ac8416a941.m3u8?type=web.cloudplay
+凤凰中文HD,http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8
+华视咨讯台,http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
+环球电视台,http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+华视新闻,http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
+港台RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8?sd=10&rebase=on
 凤凰卫视资讯台,http://117.169.120.209:8080/live/fhzixun/.m3u8
 咪咕-动漫-卡酷动漫,rtmp://ivi.bupt.edu.cn/livetv/btv10
 电影,http://pullhls2.ingkee.com/live/1535033875110929/playlist.m3u8
