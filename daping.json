@@ -569,7 +569,13 @@
             "name": "Newtv超级综艺",
             "num": "0020",
             "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225714/index.m3u8"
-        }
+        },
+		{
+            "itemid": "uid04",
+            "name": "湖南卫视测试rtmp",
+            "num": "0021",
+            "urllist": "rtmp://58.200.131.2:1935/livetv/hunantv"
+		}	
     ],
     "type": [
         {
