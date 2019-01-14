@@ -106,6 +106,7 @@ CCTV9,http://asp.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4e1621d9412e4e71
 
 电视剧
 炊事班的故事,http://171.217.255.40/baiducdnct.inter.iqiyi.com/tslive/c17_lb_aiqinggongyu_720p_t10/c17_lb_aiqinggongyu_720p_t10.m3u8?key=0de55db3ee8471bccac600fc86ce38e&dis_k=c5fd63df8df6264e42cf0d9a6947fe59&dis_t=1547485217&dis_dz=CT-SiChuan_ChengDu&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1547484087630&qd_ip=223.104.3.168&qd_sc=b9222fef508c6246b92dec144e4a9a10&wshc_tag=0&wsiphost=ipdbm
+四川影视文艺,http://182.139.227.106:80/wh7f454c46tw3291502214_1088892976/PLTV/88888920/224/3221225538/index.m3u8?rrsip=182.138.52.138&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=Nb83AetNWXdoRrSPtHupTtflFM6dfxOeocY%2BqzGmVvFwjg1YsdBTYJ%2BC37jX40QRmNqcEtIjBo6Ru7gjE6sS1os%2Fp%2FLwW2fvePEmqQ6Ggcww61JIDd2qJydvvPAB6GdhqVTEsGG2phfJPb1fsf%2B3aA%3D%3D%3A20190115020713%2Cguest%2C125.70.163.247%2C20190115020713%2C10000100000000050000000000000081%2C462AB30030A29BB6EB4728543E0B62B4%2C-1%2C0%2C1%2C-1%2C%2C2%2C%2C-1%2C%2C2%2CEND&icpid=88888888&RTS=1547489233&from=7&hms_devid=364
 
 
 演唱会
