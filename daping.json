@@ -572,9 +572,9 @@
         },
 		{
             "itemid": "uid04",
-            "name": "湖南卫视测试rtmp",
+            "name": "测试rtmp",
             "num": "0021",
-            "urllist": "rtmp://58.200.131.2:1935/livetv/hunantv"
+            "urllist": "rtmp://dv2.tp33.net:1935/sat/tv091"
 		}	
     ],
     "type": [
