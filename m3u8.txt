@@ -95,6 +95,7 @@ Newtv家庭剧场,http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8
 Newtv搏击剧场,http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
 Newtv中国功夫,http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8
 Newtv超级综艺,http://111.40.205.87/PLTV/88888888/224/3221225714/index.m3u8
+CCTV9,http://asp.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4e1621d9412e4e71824afc04ffd26ae7/2000.m3u8
 快乐大本营20180922,http://221.229.163.75/c1/2018/09/23_0/E4FD6F4F4E4733DCE1FF0BAE247499AD_20180923_1_1_1549_mp4/68604BC8E1B4DE855FA0810D9AC9C8EA.m3u8?arange=0&pm=JYuw1KDTSawq2VBgAmxpAjpnY21CLD82PCwf9530fUjM9k3he2q5V4h9rAKneKWysaEJeWVT1fggCOUfhfgfb7G9fwJVrtvLuPu~hGRVuX0lD2s_FDnkVFTfQMpkVa9HRdwWZNTEMeG4_goMf5ZWxlVMPpJPplZhJ92l173GniebKFeNTIzzv617FcxhhZoKhCie3cEmcNf4h6rNv4Z9JQnq1M78Y62Cq59SmanaevWqJu07Ggk1FMB9ARoBQHyW7CXAQLKNBgQKyhd6DqlIP1IIIfxB1u0ewZ4wSnWFDaV7E3CH4IhjDAW9USf77BcUJEO5lW3lU27pQUjBqTTfxOhe1nmwZDJWEU9W4fCZ~B25eTBbdmFUhRlo1MZMotymwv2ikcFSlhwARo~a&vcdn=0&scid=177&way=1515
 火影忍者2,http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa_1024/index.m3u8
 凤凰卫视,http://g.alicdn.com/de/prismplayer-flash/1.2.16/PrismPlayer.swf?vurl=http://117.169.120.209:8080/live/fhzixun/.m3u8&autoPlay=true
