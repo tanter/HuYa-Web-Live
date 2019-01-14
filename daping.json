@@ -323,6 +323,132 @@
             "name": "港台RTHK31",
             "num": "0010",
             "urllist": "http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8?sd=10&rebase=on"
+        },
+		{
+            "itemid": "uid02",
+            "name": "铁齿铜牙纪晓岚",
+            "num": "0001",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "周星驰",
+            "num": "0002",
+            "urllist": "http://ws4.streamhls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "成龙",
+            "num": "0003",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "亮剑",
+            "num": "0004",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "医馆笑传",
+            "num": "0005",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/29359996-2689637846-11551906586653884416-2847687566-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "变形金刚",
+            "num": "0006",
+            "urllist": "http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "雪豹",
+            "num": "0007",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/29169025-2686221276-11537232530239389696-2777027178-10057-A-1524213244-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "钢铁侠",
+            "num": "0008",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/30765679-2672001664-11476159761737580544-3048991600-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "封神榜",
+            "num": "0009",
+            "urllist": "http://ws4.streamhls.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "士兵突击",
+            "num": "0010",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/94525224-2579683622-11079656790516826112-2789274566-10057-A-1521167951-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "天下第一",
+            "num": "0011",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "小岳岳",
+            "num": "0012",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "蜘蛛侠",
+            "num": "0013",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "龙门镖局",
+            "num": "0014",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "徐峥",
+            "num": "0015",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/30765679-2685178192-11532752518572408832-3048959604-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "还珠格格",
+            "num": "0016",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/30765679-2523417093-10837993888602390528-2789274530-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "十万个冷笑话",
+            "num": "0017",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "X战警",
+            "num": "0018",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "唐人街探案",
+            "num": "0019",
+            "urllist": "http://hlslive.video.iqiyi.com/tslive/c17_lb_xijudianying_720p_t10/c17_lb_xijudianying_720p_t10.m3u8?pv=0.2&qd_src=ih5&qd_tm=1547358129284&qd_ip=117.136.0.184&qd_sc=8248503bf28c63f8c431b3595c8e88e1"
+        },
+        {
+            "itemid": "uid02",
+            "name": "喜剧片",
+            "num": "0020",
+            "urllist": "http://loopplay.cibn.cc/vchannel/169.m3u8?k=69e06ef8bf40f428e80e5e41fa0f44df&channel=CIBN&t=1547357779&ttl=86400&type=3&videotype=loop"
+        },
+        {
+            "itemid": "uid02",
+            "name": "龙虾刑警",
+            "num": "0021",
+            "urllist": "http://loopplay.cibn.cc/vchannel/335.m3u8?k=69e06ef8bf40f428e80e5e41fa0f44df&channel=CIBN&t=1547357779&ttl=86400&type=3&videotype=loop"
         }
     ],
     "type": [
@@ -337,6 +463,10 @@
 		{
             "id": "uid02",
             "name": "港澳卫视"
+        },
+		{
+            "id": "uid02",
+            "name": "在线电视剧"
         }
 	]	
 }
