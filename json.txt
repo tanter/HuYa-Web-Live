@@ -1,0 +1,17 @@
+央视
+CCTV1,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8#http://221.6.85.150:9000/live/cctv1_800/cctv1_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-15#http://zhibo.uotocom.com:8080/app/cctv1.m3u8
+CCTV2,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8#http://221.6.85.150:9000/live/cctv2_800/cctv2_800.m3u8#http://zhibo.uotocom.com:8080/app/cctv2.m3u8
+CCTV3,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8#http://221.6.85.150:9000/live/cctv3_800/cctv3_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-17#http://zhibo.uotocom.com:8080/app/cctv3.m3u8
+CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8#http://221.6.85.150:9000/live/cctv4_800/cctv4_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-18#http://zhibo.uotocom.com:8080/app/cctv4.m3u8
+CCTV5,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8#http://221.6.85.150:9000/live/cctv5_800/cctv5_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-19#http://zhibo.uotocom.com:8080/app/cctv5.m3u8
+CCTV5+,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
+CCTV6,http://221.6.85.150:9000/live/cctv6_800/cctv6_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-20#http://zhibo.uotocom.com:8080/app/cctv6.m3u8
+CCTV7,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8#http://221.6.85.150:9000/live/cctv7_800/cctv7_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-21#http://zhibo.uotocom.com:8080/app/cctv7.m3u8
+CCTV8,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/index.m3u8#http://221.6.85.150:9000/live/cctv8_800/cctv8_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-22#http://zhibo.uotocom.com:8080/app/cctv8.m3u8
+CCTV9,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8#http://221.6.85.150:9000/live/cctv9_800/cctv9_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-23#http://zhibo.uotocom.com:8080/app/cctv9.m3u8
+CCTV10,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8#http://221.6.85.150:9000/live/cctv10_800/cctv10_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-24#http://zhibo.uotocom.com:8080/app/cctv10.m3u8
+CCTV11,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8#http://221.6.85.150:9000/live/cctv11_800/cctv11_800.m3u8
+CCTV12,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8#http://221.6.85.150:9000/live/cctv12_800/cctv12_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-26#http://zhibo.uotocom.com:8080/app/cctv12.m3u8
+CCTV13,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8#http://221.6.85.150:9000/live/cctv13_800/cctv13_800.m3u8#http://zhibo.uotocom.com:8080/app/cctv13.m3u8
+CCTV14,http://221.6.85.150:9000/live/cctv14_800/cctv14_800.m3u8#http://94.191.92.145:5005/nl.ts?id=232-10-1-28#http://zhibo.uotocom.com:8080/app/cctv14.m3u8
+CCTV15,http://221.6.85.150:9000/live/cctv15_800/cctv15_800.m3u8#http://zhibo.uotocom.com:8080/app/cctv15.m3u8
