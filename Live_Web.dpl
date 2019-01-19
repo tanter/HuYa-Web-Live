@@ -1,6 +1,6 @@
 ﻿DAUMPLAYLIST
-playname=http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
-topindex=10
+playname=http://ws4.streamhls.huya.com/backsrc/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8
+topindex=29
 1*file*http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
 1*title*CCTV1
 1*played*0
@@ -84,7 +84,7 @@ topindex=10
 27*played*0
 28*file*http://ws4.streamhls.huya.com/backsrc/29359996-2689637846-11551906586653884416-2847687566-10057-A-0-1.m3u8
 28*title*医馆笑传
-28*played*0
+28*played*1
 29*file*http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
 29*title*变形金刚
 29*played*0
