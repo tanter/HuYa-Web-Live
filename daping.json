@@ -340,7 +340,7 @@
             "itemid": "uid03",
             "name": "成龙",
             "num": "0003",
-            "urllist": "http://ws4.streamhls.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8"
+            "urllist": "rtmp://tx.flv.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1"
         },
         {
             "itemid": "uid03",
