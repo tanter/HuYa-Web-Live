@@ -725,6 +725,72 @@
             "name": "湖北卫视 HD",
             "num": "0012",
             "urllist": "http://ivi.bupt.edu.cn/hls/hbhd.m3u8"
+        },
+		{
+            "itemid": "uid06",
+            "name": "香港电影 1",
+            "num": "0001",
+            "urllist": "http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8"
+        },
+        {
+            "itemid": "uid06",
+            "name": "好莱坞中文电影 2",
+            "num": "0002",
+            "urllist": "http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8"
+        },
+        {
+            "itemid": "uid06",
+            "name": "好莱坞中文电影 3",
+            "num": "0003",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid06",
+            "name": "好莱坞中文电影 4",
+            "num": "0004",
+            "urllist": "http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8"
+        },
+        {
+            "itemid": "uid06",
+            "name": "好莱坞中文电影 5",
+            "num": "0005",
+            "urllist": "http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8"
+        },
+        {
+            "itemid": "uid06",
+            "name": "好莱坞中文电影 6",
+            "num": "0006",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid06",
+            "name": "好莱坞中文电影 7",
+            "num": "0007",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid06",
+            "name": "好莱坞中文电影 8",
+            "num": "0008",
+            "urllist": "http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid06",
+            "name": "好莱坞中文电影 9",
+            "num": "0009",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid06",
+            "name": "好莱坞中文电影 10",
+            "num": "0010",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid06",
+            "name": "好莱坞中文电影 11",
+            "num": "0011",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8"
         }
     ],
     "type": [
@@ -751,6 +817,10 @@
 		{
             "id": "uid05",
             "name": "高清"
+        },
+		{
+            "id": "uid06",
+            "name": "好莱坞电影"
         }
 	]	
 }
