@@ -653,6 +653,78 @@
             "name": "周杰伦演唱会",
             "num": "0001",
             "urllist": "http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_zhoujielun_720p_t10/c19_lb_zhoujielun_720p_t10.m3u8?key=0de55db3ee8471bcc349c4f94c4066d6&dis_k=aa4517fe6063d688b5dc2f2852d563e2&dis_t=1547485721&dis_dz=CT-SiChuan_ChengDu&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1547485368907&qd_ip=223.104.3.168&qd_sc=e0f36a90f7c45c91a806354953d0a030"
+        },
+		{
+            "itemid": "uid05",
+            "name": "央視CHC高清电影HD",
+            "num": "0001",
+            "urllist": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "央視CHC高清電影HD",
+            "num": "0002",
+            "urllist": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "北京卫视 HD",
+            "num": "0003",
+            "urllist": "http://ivi.bupt.edu.cn/hls/btv1hd.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "北京文艺 HD",
+            "num": "0004",
+            "urllist": "http://ivi.bupt.edu.cn/hls/btv2hd.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "北京体育 HD",
+            "num": "0005",
+            "urllist": "http://ivi.bupt.edu.cn/hls/btv6hd.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "北京纪实 HD",
+            "num": "0006",
+            "urllist": "http://ivi.bupt.edu.cn/hls/btv11hd.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "安徽卫视 HD",
+            "num": "0007",
+            "urllist": "http://ivi.bupt.edu.cn/hls/ahhd.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "黑龙江江卫视 HD",
+            "num": "0008",
+            "urllist": "http://ivi.bupt.edu.cn/hls/hljhd.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "深圳卫视 HD",
+            "num": "0009",
+            "urllist": "http://ivi.bupt.edu.cn/hls/szhd.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "广东卫视 HD",
+            "num": "0010",
+            "urllist": "http://ivi.bupt.edu.cn/hls/gdhd.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "天津卫视 HD",
+            "num": "0011",
+            "urllist": "http://ivi.bupt.edu.cn/hls/tjhd.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "湖北卫视 HD",
+            "num": "0012",
+            "urllist": "http://ivi.bupt.edu.cn/hls/hbhd.m3u8"
         }
     ],
     "type": [
@@ -678,7 +750,7 @@
         },
 		{
             "id": "uid05",
-            "name": "演唱会"
+            "name": "高清"
         }
 	]	
 }
