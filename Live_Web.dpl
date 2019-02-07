@@ -70,11 +70,11 @@ topindex=23
 23*file*http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225818/3.m3u8
 23*title*辽宁卫视
 23*played*0
-24*file*http://ws4.streamhls.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1.m3u8
-24*title*铁齿铜牙纪晓岚
+24*file*http://ws4.streamhls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+24*title*周星驰
 24*played*0
-25*file*http://ws4.streamhls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
-25*title*周星驰
+25*file*http://ws4.streamhls.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1.m3u8
+25*title*铁齿铜牙纪晓岚
 25*played*0
 26*file*http://ws4.streamhls.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
 26*title*成龙
