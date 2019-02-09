@@ -4,7 +4,7 @@
             "itemid": "uid00",
             "name": "CCTV1-高清",
             "num": "0001",
-            "urllist": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
+            "urllist": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8#rtsp://118.122.175.90/PLTV/88888896/224/3221227962/10000100000000060000000003735605_0.smil#http://111.40.205.87/PLTV/88888888/224/3221225706/index.m3u8"
         },
         {
             "itemid": "uid00",
@@ -20,657 +20,653 @@
         },
         {
             "itemid": "uid00",
-            "name": "CCTV6-高清",
+            "name": "CCTV5-高清",
             "num": "0004",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV6-高清",
+            "num": "0005",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV8-高清",
-            "num": "0005",
+            "num": "0006",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "北京卫视-高清",
-            "num": "0006",
+            "num": "0007",
             "urllist": "http://ivi.bupt.edu.cn/hls/btv1hd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "北京文艺-高清",
-            "num": "0007",
+            "num": "0008",
             "urllist": "http://ivi.bupt.edu.cn/hls/btv2hd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "北京体育-高清",
-            "num": "0008",
+            "num": "0009",
             "urllist": "http://ivi.bupt.edu.cn/hls/btv6hd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "北京纪实-高清",
-            "num": "0009",
+            "num": "0010",
             "urllist": "http://ivi.bupt.edu.cn/hls/btv11hd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "湖南卫视-高清",
-            "num": "0010",
+            "num": "0011",
             "urllist": "http://ivi.bupt.edu.cn/hls/hunanhd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "浙江卫视-高清",
-            "num": "0011",
+            "num": "0012",
             "urllist": "http://ivi.bupt.edu.cn/hls/zjhd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "江苏卫视-高清",
-            "num": "0012",
+            "num": "0013",
             "urllist": "http://ivi.bupt.edu.cn/hls/jshd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "东方卫视-高清",
-            "num": "0013",
+            "num": "0014",
             "urllist": "http://ivi.bupt.edu.cn/hls/dfhd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "安徽卫视-高清",
-            "num": "0014",
+            "num": "0015",
             "urllist": "http://ivi.bupt.edu.cn/hls/ahhd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "黑龙江卫视-高清",
-            "num": "0015",
+            "num": "0016",
             "urllist": "http://ivi.bupt.edu.cn/hls/hljhd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "辽宁卫视-高清",
-            "num": "0016",
+            "num": "0017",
             "urllist": "http://ivi.bupt.edu.cn/hls/lnhd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "深圳卫视-高清",
-            "num": "0017",
+            "num": "0018",
             "urllist": "http://ivi.bupt.edu.cn/hls/szhd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "广东卫视-高清",
-            "num": "0018",
+            "num": "0019",
             "urllist": "http://ivi.bupt.edu.cn/hls/gdhd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "天津卫视-高清",
-            "num": "0019",
+            "num": "0020",
             "urllist": "http://ivi.bupt.edu.cn/hls/tjhd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "湖北卫视-高清",
-            "num": "0020",
+            "num": "0021",
             "urllist": "http://ivi.bupt.edu.cn/hls/hbhd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "山东卫视-高清",
-            "num": "0021",
+            "num": "0022",
             "urllist": "http://ivi.bupt.edu.cn/hls/sdhd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "重庆卫视-高清",
-            "num": "0022",
+            "num": "0023",
             "urllist": "http://ivi.bupt.edu.cn/hls/cqhd.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CHC高清电影",
-            "num": "0023",
+            "num": "0024",
             "urllist": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
         },
-		{
-            "itemid": "uid01",
-            "name": "虎牙直播-爱情公寓",
-            "num": "0001",
-            "urllist": "http://ws4.streamhls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid01",
-            "name": "虎牙直播-周星驰",
-            "num": "0002",
-            "urllist": "http://ws4.streamhls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid01",
-            "name": "虎牙直播-吴京",
-            "num": "0003",
-            "urllist": "http://ws4.streamhls.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid01",
-            "name": "虎牙直播-成龙",
-            "num": "0004",
-            "urllist": "http://ws4.streamhls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid01",
-            "name": "虎牙直播-亮剑",
-            "num": "0005",
-            "urllist": "http://ws4.streamhls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid01",
-            "name": "虎牙直播-李连杰",
-            "num": "0006",
-            "urllist": "http://ws4.streamhls.huya.com/backsrc/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid01",
-            "name": "虎牙直播-变形金刚",
-            "num": "0007",
-            "urllist": "http://ws4.streamhls.huya.com/backsrc/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8"
-        },
-        {
-            "itemid": "uid01",
-            "name": "虎牙直播-雪豹",
-            "num": "0008",
-            "urllist": "http://ws4.streamhls.huya.com/backsrc/29169025-2686221276-11537232530239389696-2777027178-10057-A-1524213244-1.m3u8"
-        },
-		{
-            "itemid": "uid02",
-            "name": "NewTv古    装",
-            "num": "0001",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv动画王国",
-            "num": "0002",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv古装剧场",
-            "num": "0003",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv明星大片",
-            "num": "0004",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv惊悚悬疑",
-            "num": "0005",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv金牌综艺",
-            "num": "0006",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv精品电影",
-            "num": "0007",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv军事评论",
-            "num": "0008",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv爱情喜剧",
-            "num": "0009",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv精品大剧",
-            "num": "0010",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225670/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv海外剧场",
-            "num": "0011",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv精品记录",
-            "num": "0012",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv健康有约",
-            "num": "0013",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv精品体育",
-            "num": "0014",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv电    竟",
-            "num": "0015",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv军旅剧场",
-            "num": "0016",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv家庭剧场",
-            "num": "0017",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv搏击剧场",
-            "num": "0018",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv中国功夫",
-            "num": "0019",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8"
-        },
-        {
-            "itemid": "uid02",
-            "name": "Newtv超级综艺",
-            "num": "0020",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225714/index.m3u8"
-        },
 		 {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "CCTV1",
             "num": "0001",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv1.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "CCTV2",
             "num": "0002",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv2.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "CCTV3",
             "num": "0003",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv3.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "CCTV4",
             "num": "0004",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv4.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "CCTV6",
             "num": "0005",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv6.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "CCTV7",
             "num": "0006",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv7.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "CCTV8",
             "num": "0007",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv8.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "CCTV9",
             "num": "0008",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv9.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "CCTV10",
             "num": "0009",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv10.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "CCTV11",
             "num": "0010",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv11.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "CCTV12",
             "num": "0011",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv12.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "CCTV13",
             "num": "0012",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv13.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "CCTV14",
             "num": "0013",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv14.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "CCTV15",
             "num": "0014",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv15.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "CCTV-NEWS",
             "num": "0015",
             "urllist": "http://ivi.bupt.edu.cn/hls/cctv16.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "深圳卫视",
             "num": "0016",
             "urllist": "http://ivi.bupt.edu.cn/hls/sztv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "安徽卫视",
             "num": "0017",
             "urllist": "http://ivi.bupt.edu.cn/hls/ahtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "河南卫视",
             "num": "0018",
             "urllist": "http://ivi.bupt.edu.cn/hls/hntv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "陕西卫视",
             "num": "0019",
             "urllist": "http://ivi.bupt.edu.cn/hls/sxtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "吉林卫视",
             "num": "0020",
             "urllist": "http://ivi.bupt.edu.cn/hls/jltv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "广东卫视",
             "num": "0021",
             "urllist": "http://ivi.bupt.edu.cn/hls/gdtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "山东卫视",
             "num": "0022",
             "urllist": "http://ivi.bupt.edu.cn/hls/sdtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "湖北卫视",
             "num": "0023",
             "urllist": "http://ivi.bupt.edu.cn/hls/hbtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "广西卫视",
             "num": "0024",
             "urllist": "http://ivi.bupt.edu.cn/hls/gxtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "河北卫视",
             "num": "0025",
             "urllist": "http://ivi.bupt.edu.cn/hls/hebtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "西藏卫视",
             "num": "0026",
             "urllist": "http://ivi.bupt.edu.cn/hls/xztv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "内蒙古卫视",
             "num": "0027",
             "urllist": "http://ivi.bupt.edu.cn/hls/nmtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "青海卫视",
             "num": "0028",
             "urllist": "http://ivi.bupt.edu.cn/hls/qhtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "四川卫视",
             "num": "0029",
             "urllist": "http://ivi.bupt.edu.cn/hls/sctv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "江苏卫视",
             "num": "0030",
             "urllist": "http://ivi.bupt.edu.cn/hls/jstv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "天津卫视",
             "num": "0031",
             "urllist": "http://ivi.bupt.edu.cn/hls/tjtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "山西卫视",
             "num": "0032",
             "urllist": "http://ivi.bupt.edu.cn/hls/sxrtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "辽宁卫视",
             "num": "0033",
             "urllist": "http://ivi.bupt.edu.cn/hls/lntv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "厦门卫视",
             "num": "0034",
             "urllist": "http://ivi.bupt.edu.cn/hls/xmtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "新疆卫视",
             "num": "0035",
             "urllist": "http://ivi.bupt.edu.cn/hls/xjtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "东方卫视",
             "num": "0036",
             "urllist": "http://ivi.bupt.edu.cn/hls/dftv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "黑龙江卫视",
             "num": "0037",
             "urllist": "http://ivi.bupt.edu.cn/hls/hljtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "湖南卫视",
             "num": "0038",
             "urllist": "http://ivi.bupt.edu.cn/hls/hunantv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "云南卫视",
             "num": "0039",
             "urllist": "http://ivi.bupt.edu.cn/hls/yntv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "江西卫视",
             "num": "0040",
             "urllist": "http://ivi.bupt.edu.cn/hls/jxtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "福建东南卫视",
             "num": "0041",
             "urllist": "http://ivi.bupt.edu.cn/hls/dntv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "浙江卫视",
             "num": "0042",
             "urllist": "http://ivi.bupt.edu.cn/hls/zjtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "贵州卫视",
             "num": "0043",
             "urllist": "http://ivi.bupt.edu.cn/hls/gztv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "宁夏卫视",
             "num": "0044",
             "urllist": "http://ivi.bupt.edu.cn/hls/nxtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "甘肃卫视",
             "num": "0045",
             "urllist": "http://ivi.bupt.edu.cn/hls/gstv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "重庆卫视",
             "num": "0046",
             "urllist": "http://ivi.bupt.edu.cn/hls/cqtv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "兵团卫视",
             "num": "0047",
             "urllist": "http://ivi.bupt.edu.cn/hls/bttv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "旅游卫视",
             "num": "0048",
             "urllist": "http://ivi.bupt.edu.cn/hls/lytv.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "北京卫视",
             "num": "0049",
             "urllist": "http://ivi.bupt.edu.cn/hls/btv1.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "北京文艺",
             "num": "0050",
             "urllist": "http://ivi.bupt.edu.cn/hls/btv2.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "北京科教",
             "num": "0051",
             "urllist": "http://ivi.bupt.edu.cn/hls/btv3.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "北京影视",
             "num": "0052",
             "urllist": "http://ivi.bupt.edu.cn/hls/btv4.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "北京财经",
             "num": "0053",
             "urllist": "http://ivi.bupt.edu.cn/hls/btv5.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "北京体育",
             "num": "0054",
             "urllist": "http://ivi.bupt.edu.cn/hls/btv6.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "北京生活",
             "num": "0055",
             "urllist": "http://ivi.bupt.edu.cn/hls/btv7.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "北京青年",
             "num": "0056",
             "urllist": "http://ivi.bupt.edu.cn/hls/btv8.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "北京新闻",
             "num": "0057",
             "urllist": "http://ivi.bupt.edu.cn/hls/btv9.m3u8"
         },
         {
-            "itemid": "uid03",
+            "itemid": "uid01",
             "name": "北京卡酷少儿",
             "num": "0058",
             "urllist": "http://ivi.bupt.edu.cn/hls/btv10.m3u8"
+        },
+		 {
+            "itemid": "uid02",
+            "name": "四川文化旅游高清",
+            "num": "0001",
+            "urllist": "http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "四川影视文艺高清",
+            "num": "0002",
+            "urllist": "http://scgctvshow.sctv.com/hdlive/sctv5/3.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "四川妇女儿童高清",
+            "num": "0003",
+            "urllist": "http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "四川峨眉电影高清",
+            "num": "0004",
+            "urllist": "http://scgctvshow.sctv.com/hdlive/emei/3.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "四川经济频道高清",
+            "num": "0005",
+            "urllist": "http://scgctvshow.sctv.com/hdlive/sctv3/3.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "四川德阳公共",
+            "num": "0006",
+            "urllist": "rtmp://scdytv.com/live/ggpd_livevideo"
+        },
+        {
+            "itemid": "uid02",
+            "name": "内江综合频道",
+            "num": "0007",
+            "urllist": "http://njzb.scnj.tv:90/live/njtv001.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "内江公共频道",
+            "num": "0008",
+            "urllist": "http://njzb.scnj.tv:90/live/njtv002.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "广元综合",
+            "num": "0009",
+            "urllist": "http://3g.dzsm.com/streamer/gy03.m3u8"
+        },
+		{
+            "itemid": "uid03",
+            "name": "CTV1",
+            "num": "0001",
+            "urllist": "http://stream.chinactv.com/ctv1/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "CTV2",
+            "num": "0002",
+            "urllist": "http://stream.chinactv.com/ctv2/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "CTV3",
+            "num": "0003",
+            "urllist": "http://stream.chinactv.com/ctv3/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "CTV4",
+            "num": "0004",
+            "urllist": "http://stream.chinactv.com/ctv4/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "CTV5",
+            "num": "0005",
+            "urllist": "http://stream.chinactv.com/ctv5/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "CTV8",
+            "num": "0006",
+            "urllist": "http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_4.m3u8"
+        },
+	    {
+            "itemid": "uid04",
+            "name": "凤凰资讯HD",
+            "num": "0001",
+            "urllist": "http://111.13.42.13/PLTV/88888888/224/3221226142/1.m3u8#http://117.169.72.6:8080/ysten-businessmobile/live/fhzixun/1.m3u8"
+        },
+        {
+            "itemid": "uid04",
+            "name": "凤凰中文HD",
+            "num": "0002",
+            "urllist": "http://111.13.42.13/PLTV/88888888/224/3221226143/1.m3u8"
+        },
+		        {
+            "itemid": "uid05",
+            "name": "虎牙直播-爱情公寓",
+            "num": "0001",
+            "urllist": "http://ws4.streamhls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "虎牙直播-周星驰",
+            "num": "0002",
+            "urllist": "http://ws4.streamhls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "虎牙直播-吴京",
+            "num": "0003",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "虎牙直播-成龙",
+            "num": "0004",
+            "urllist": "http://ws4.streamhls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "虎牙直播-亮剑",
+            "num": "0005",
+            "urllist": "http://ws4.streamhls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "虎牙直播-李连杰",
+            "num": "0006",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "虎牙直播-变形金刚",
+            "num": "0007",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "虎牙直播-雪豹",
+            "num": "0008",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/29169025-2686221276-11537232530239389696-2777027178-10057-A-1524213244-1.m3u8"
         }
     ],
     "type": [
         {
             "id": "uid00",
-            "name": "高清电视"
+            "name": "高清卫视"
         },
 		{
             "id": "uid01",
-            "name": "直播电视剧"
+            "name": "直播卫视"
         },
 		{
             "id": "uid02",
-            "name": "NEW TV"
+            "name": "四川省"
         },
 		{
             "id": "uid03",
-            "name": "标清直播电视"
+            "name": "CTV"
+        },
+		{
+            "id": "uid04",
+            "name": "港台"
+        },
+		{
+            "id": "uid05",
+            "name": "直播电视/电视剧"
         }
     ]
 }
