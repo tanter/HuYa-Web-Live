@@ -185,6 +185,126 @@
             "name": "虎牙直播-雪豹",
             "num": "0008",
             "urllist": "http://ws4.streamhls.huya.com/backsrc/29169025-2686221276-11537232530239389696-2777027178-10057-A-1524213244-1.m3u8"
+        },
+		{
+            "itemid": "uid02",
+            "name": "NewTv古    装",
+            "num": "0001",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv动画王国",
+            "num": "0002",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv古装剧场",
+            "num": "0003",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv明星大片",
+            "num": "0004",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv惊悚悬疑",
+            "num": "0005",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv金牌综艺",
+            "num": "0006",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv精品电影",
+            "num": "0007",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv军事评论",
+            "num": "0008",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv爱情喜剧",
+            "num": "0009",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv精品大剧",
+            "num": "0010",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225670/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv海外剧场",
+            "num": "0011",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv精品记录",
+            "num": "0012",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv健康有约",
+            "num": "0013",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv精品体育",
+            "num": "0014",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv电    竟",
+            "num": "0015",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv军旅剧场",
+            "num": "0016",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv家庭剧场",
+            "num": "0017",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv搏击剧场",
+            "num": "0018",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv中国功夫",
+            "num": "0019",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Newtv超级综艺",
+            "num": "0020",
+            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225714/index.m3u8"
         }
     ],
     "type": [
@@ -195,6 +315,10 @@
 		{
             "id": "uid01",
             "name": "直播电视剧"
+        },
+		{
+            "id": "uid02",
+            "name": "NEW TV"
         }
     ]
 }
