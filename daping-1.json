@@ -1,0 +1,200 @@
+{
+    "live": [
+        {
+            "itemid": "uid00",
+            "name": "CCTV1-高清",
+            "num": "0001",
+            "urllist": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV3-高清",
+            "num": "0002",
+            "urllist": "http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV5+-高清",
+            "num": "0003",
+            "urllist": "http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV6-高清",
+            "num": "0004",
+            "urllist": "http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV8-高清",
+            "num": "0005",
+            "urllist": "http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "北京卫视-高清",
+            "num": "0006",
+            "urllist": "http://ivi.bupt.edu.cn/hls/btv1hd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "北京文艺-高清",
+            "num": "0007",
+            "urllist": "http://ivi.bupt.edu.cn/hls/btv2hd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "北京体育-高清",
+            "num": "0008",
+            "urllist": "http://ivi.bupt.edu.cn/hls/btv6hd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "北京纪实-高清",
+            "num": "0009",
+            "urllist": "http://ivi.bupt.edu.cn/hls/btv11hd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "湖南卫视-高清",
+            "num": "0010",
+            "urllist": "http://ivi.bupt.edu.cn/hls/hunanhd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "浙江卫视-高清",
+            "num": "0011",
+            "urllist": "http://ivi.bupt.edu.cn/hls/zjhd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "江苏卫视-高清",
+            "num": "0012",
+            "urllist": "http://ivi.bupt.edu.cn/hls/jshd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "东方卫视-高清",
+            "num": "0013",
+            "urllist": "http://ivi.bupt.edu.cn/hls/dfhd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "安徽卫视-高清",
+            "num": "0014",
+            "urllist": "http://ivi.bupt.edu.cn/hls/ahhd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "黑龙江卫视-高清",
+            "num": "0015",
+            "urllist": "http://ivi.bupt.edu.cn/hls/hljhd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "辽宁卫视-高清",
+            "num": "0016",
+            "urllist": "http://ivi.bupt.edu.cn/hls/lnhd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "深圳卫视-高清",
+            "num": "0017",
+            "urllist": "http://ivi.bupt.edu.cn/hls/szhd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "广东卫视-高清",
+            "num": "0018",
+            "urllist": "http://ivi.bupt.edu.cn/hls/gdhd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "天津卫视-高清",
+            "num": "0019",
+            "urllist": "http://ivi.bupt.edu.cn/hls/tjhd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "湖北卫视-高清",
+            "num": "0020",
+            "urllist": "http://ivi.bupt.edu.cn/hls/hbhd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "山东卫视-高清",
+            "num": "0021",
+            "urllist": "http://ivi.bupt.edu.cn/hls/sdhd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "重庆卫视-高清",
+            "num": "0022",
+            "urllist": "http://ivi.bupt.edu.cn/hls/cqhd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CHC高清电影",
+            "num": "0023",
+            "urllist": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+        },
+		{
+            "itemid": "uid01",
+            "name": "虎牙直播-爱情公寓",
+            "num": "0001",
+            "urllist": "http://ws4.streamhls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "虎牙直播-周星驰",
+            "num": "0002",
+            "urllist": "http://ws4.streamhls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "虎牙直播-吴京",
+            "num": "0003",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "虎牙直播-成龙",
+            "num": "0004",
+            "urllist": "http://ws4.streamhls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "虎牙直播-亮剑",
+            "num": "0005",
+            "urllist": "http://ws4.streamhls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "虎牙直播-李连杰",
+            "num": "0006",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "虎牙直播-变形金刚",
+            "num": "0007",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "虎牙直播-雪豹",
+            "num": "0008",
+            "urllist": "http://ws4.streamhls.huya.com/backsrc/29169025-2686221276-11537232530239389696-2777027178-10057-A-1524213244-1.m3u8"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid00",
+            "name": "高清电视"
+        },
+		{
+            "id": "uid01",
+            "name": "直播电视剧"
+        }
+    ]
+}
