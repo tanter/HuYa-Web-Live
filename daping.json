@@ -761,6 +761,678 @@
             "name": "Newtv超级综艺",
             "num": "0020",
             "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225714/index.m3u8"
+        },
+		{
+            "itemid": "uid07",
+            "name": "CCTV-1超清",
+            "num": "0001",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-2高清",
+            "num": "0002",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-3超清",
+            "num": "0003",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-4超清",
+            "num": "0004",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-5超清",
+            "num": "0005",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-5+超清",
+            "num": "0006",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-6超清",
+            "num": "0007",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-7超清",
+            "num": "0008",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-8超清",
+            "num": "0009",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-9超清",
+            "num": "0010",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-10超清",
+            "num": "0011",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-11超清",
+            "num": "0012",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-12超清",
+            "num": "0013",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-13超清",
+            "num": "0014",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-14超清",
+            "num": "0015",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-15超清",
+            "num": "0016",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-NEWS",
+            "num": "0017",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "浙江卫视",
+            "num": "0018",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_ZHEJIANG/G_ZHEJIANG/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "江苏卫视",
+            "num": "0019",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/JSWS-HD/JSWS-HD/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "湖南卫视",
+            "num": "0020",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_HUNAN/G_HUNAN/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "安徽卫视",
+            "num": "0021",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/AHWS/AHWS/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "辽宁卫视",
+            "num": "0022",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/LNWS/LNWS/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "山东卫视",
+            "num": "0023",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/SDWS/SDWS/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "广西卫视",
+            "num": "0024",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/GXWS/GXWS/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "旅游卫视",
+            "num": "0025",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/LYWS/LYWS/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "重庆卫视",
+            "num": "0026",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CHONGQING/G_CHONGQING/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "四川卫视",
+            "num": "0027",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/SCWS/SCWS/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "河南卫视",
+            "num": "0028",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/HENAN/HENAN/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "东南卫视",
+            "num": "0029",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/DNWS/DNWS/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "天津卫视",
+            "num": "0030",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/TJWS/TJWS/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "江西卫视",
+            "num": "0031",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/JXWS/JXWS/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "湖北卫视",
+            "num": "0032",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_HUBEI/G_HUBEI/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "吉林卫视",
+            "num": "0033",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_JILIN/G_JILIN/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "山西卫视",
+            "num": "0034",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/SXWS/SXWS/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "贵州卫视",
+            "num": "0035",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "青海卫视",
+            "num": "0036",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_QINGHAI/G_QINGHAI/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "内蒙古卫视",
+            "num": "0037",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "云南卫视",
+            "num": "0038",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_YUNNAN/G_YUNNAN/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "河北卫视",
+            "num": "0039",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_HEBEI/G_HEBEI/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "宁夏卫视",
+            "num": "0040",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_NINGXIA/G_NINGXIA/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "新疆卫视",
+            "num": "0041",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_XINJIANG/G_XINJIANG/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "甘肃卫视",
+            "num": "0042",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_GANSU/G_GANSU/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "西藏卫视",
+            "num": "0043",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_XIZANG/G_XIZANG/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "优漫卡通",
+            "num": "0044",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_YOUMAN/G_YOUMAN/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "东方卫视",
+            "num": "0045",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_DONGFANG/G_DONGFANG/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "北京卫视",
+            "num": "0046",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_BEIJING/G_BEIJING/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "广东卫视",
+            "num": "0047",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "深圳卫视",
+            "num": "0048",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "黑龙江卫视",
+            "num": "0049",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "兵团卫视",
+            "num": "0050",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "陕西卫视",
+            "num": "0051",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_SHANXI/G_SHANXI/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "南方卫视（广东）",
+            "num": "0052",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_NANFANG/G_NANFANG/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "厦门卫视",
+            "num": "0053",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_XIAMEN/G_XIAMEN/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "山东卫视超清",
+            "num": "0054",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "延边卫视",
+            "num": "0055",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_YANBIAN/G_YANBIAN/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "嘉佳卡通",
+            "num": "0056",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_JIAJIA/G_JIAJIA/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "山东教育电视台",
+            "num": "0057",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_SDETV/G_SDETV/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "安多卫视",
+            "num": "0058",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_ANDUO/G_ANDUO/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "考试在线",
+            "num": "0059",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "农林卫视",
+            "num": "0060",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_NONGLIN/G_NONGLIN/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "置业频道",
+            "num": "0061",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_ZHIYE/G_ZHIYE/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "康巴卫视",
+            "num": "0062",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_KANGBA/G_KANGBA/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "京视剧场",
+            "num": "0063",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_JINGJU/G_JINGJU/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "新娱乐",
+            "num": "0064",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_XINYULE/G_XINYULE/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "家庭理财",
+            "num": "0065",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "发现之旅",
+            "num": "0066",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "弈坛春秋",
+            "num": "0067",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_YITANCQ/G_YITANCQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "老故事",
+            "num": "0068",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "女性时尚",
+            "num": "0069",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "现代女性",
+            "num": "0070",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_XIANDAINX/G_XIANDAINX/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "高尔夫",
+            "num": "0071",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_GAOERFU/G_GAOERFU/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "职业指南",
+            "num": "0072",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "证券资讯",
+            "num": "0073",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_ZHENGJUANZX/G_ZHENGJUANZX/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "中国交通频道",
+            "num": "0074",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "国学频道",
+            "num": "0075",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_GUOXUE/G_GUOXUE/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "篮球",
+            "num": "0076",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_LANQIU/G_LANQIU/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "卡酷少儿",
+            "num": "0077",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_KAKU/G_KAKU/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "金鹰卡通",
+            "num": "0078",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_JINYING/G_JINYING/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "炫动卡通",
+            "num": "0079",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_XUANDONG/G_XUANDONG/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "江苏卫视超清",
+            "num": "0080",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "江苏教育",
+            "num": "0081",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_JSJY/G_JSJY/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "江苏城市",
+            "num": "0082",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_JSCS/G_JSCS/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "江苏公共",
+            "num": "0083",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_JSGG/G_JSGG/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "江苏影视",
+            "num": "0084",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_JSYS/G_JSYS/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "江苏休闲体育",
+            "num": "0085",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_JSTY/G_JSTY/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "江苏综艺",
+            "num": "0086",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_JSZY/G_JSZY/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "好享购",
+            "num": "0087",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_HAOXIANG/G_HAOXIANG/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "南京新闻综合",
+            "num": "0088",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_NJXW/G_NJXW/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "南京科教",
+            "num": "0089",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_NJJK/G_NJJK/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "南京十八",
+            "num": "0090",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_NJSB/G_NJSB/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "湖南卫视超清-8M",
+            "num": "0091",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "江苏卫视超清",
+            "num": "0092",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "北京卫视超清-8M",
+            "num": "0093",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "浙江卫视超清",
+            "num": "0094",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "东方卫视超清-8M",
+            "num": "0095",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-1蓝光",
+            "num": "0096",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-2蓝光",
+            "num": "0097",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-3蓝光",
+            "num": "0098",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-4蓝光",
+            "num": "0099",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-5蓝光",
+            "num": "0100",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-5+蓝光",
+            "num": "0101",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-6蓝光",
+            "num": "0102",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-8蓝光",
+            "num": "0103",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-1",
+            "num": "0104",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-1/G_CCTV-1/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-2",
+            "num": "0105",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-2/G_CCTV-2/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-3",
+            "num": "0106",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-3-HD/G_CCTV-3-HD/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-5",
+            "num": "0107",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-5-HD/G_CCTV-5-HD/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CCTV-8",
+            "num": "0108",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CCTV-8/G_CCTV-8/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CETV-1",
+            "num": "0109",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CETV-1/G_CETV-1/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CETV-2",
+            "num": "0110",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CETV-2/G_CETV-2/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CETV-4",
+            "num": "0111",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/"
+        },
+        {
+            "itemid": "uid07",
+            "name": "CETV-3",
+            "num": "0112",
+            "urllist": "http://223.110.241.139:6610/gitv/live1/G_CETV-3/G_CETV-3/"
         }
     ],
     "type": [
@@ -791,6 +1463,10 @@
 		{
             "id": "uid06",
             "name": "NEW TV"
+        },
+		{
+            "id": "uid07",
+            "name": "IPTV-CMCC"
         }
     ]
 }
